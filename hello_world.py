@@ -11,3 +11,6 @@ hello_world()
 def stupid_program():
  print 'dummy'
 
+def another():
+    print 'this has proper line space'
+
