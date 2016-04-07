@@ -14,3 +14,6 @@ def stupid_program():
 def another():
     print 'this has proper line space'
 
+def yet_more():
+      print 'MOAR!!'
+
