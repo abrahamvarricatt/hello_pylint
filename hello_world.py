@@ -7,3 +7,7 @@ hello_world()
 
 
 #I'm hoping to see comments about this line only
+
+def stupid_program()
+ print 'dummy'
+
